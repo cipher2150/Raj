@@ -1,22 +1,18 @@
 <div align="center">
 
-# Hi 👋 I'm Rajshekhar Prasad Saxena
-
-### Software Engineer • Data Engineer • AI Enthusiast
-
 <br>
 
 <a href="./hero1.mp4">
     <img src="./assets/hero-preview.gif" width="100%" alt="Hero Animation"/>
+    # Hi 👋 I'm Rajshekhar Prasad Saxena
+    ### Software Engineer • Data Engineer 
 </a>
-
-> 🎥 Click the animation above to watch the full video.
 
 </div>
 
 ---
 
-# 🚀 Currently Working On
+# Currently Working On
 
 <table>
 <tr>
